@@ -47,7 +47,7 @@ git clone https://github.com/linnil1/BWT_with_graph_tutorial
 cd BWT_with_graph_tutorial
 
 # install requirements
-pip install jupyter networkx
+pip install jupyter networkx matplotlib
 
 # start the jupyter web serivce
 jupyter notebook
